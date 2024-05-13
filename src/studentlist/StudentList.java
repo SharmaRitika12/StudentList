@@ -26,14 +26,11 @@ public class StudentList {
         s3.setName("Kashvi");
         Student s4= new Student();
         s4.setName("Noordeep");
-                                                                                        Student s5= new Student();
-        s5.setName("Muskan");
         
         studentList[0]=s1;
         studentList[1]=s2;
         studentList[2]=s3;
         studentList[3]=s4;
-        studentList[4]=s5;
        
         
         
